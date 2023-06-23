@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Dancing+Script:wght@700&family=Roboto+Slab:wght@200;700&display=swap');
+
+body {
+    background: black
+}
+
+.login-button {
+    width: 25rem;
+    margin-top: 6%;
+    margin-left: 10%;
+    font-size: large;
+    font-weight: bold;
+}
+
+.logo {
+    font-family: 'Dancing Script', cursive;
+    font-size: 800%;
+    color: #b71c1c;
+    display: block;
+    margin-top: 15%;
+    margin-left: 48%;
+}
